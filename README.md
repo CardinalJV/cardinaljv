@@ -97,7 +97,7 @@ https://github.com/user-attachments/assets/4827e9cb-7e6d-4bf6-a757-e25108f2cbb4
 <p align="center">
   
   <a href="https://testflight.apple.com/join/6WnPUyfR">
-    <img src="https://github.com/CardinalJV/ZikPop/raw/main/ZikPop-Icon.png" alt="Logo" width="137">
+    <img src="https://github.com/CardinalJV/ZikPop/raw/main/ZikPop-AppIcon-iOS-Default-1024%401x.png" alt="Logo" width="137">
   </a>
   
 Guess the song!
